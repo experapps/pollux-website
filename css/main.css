@@ -2683,3 +2683,11 @@ span.stButton_gradient,
   border-radius: 100%;
   margin: 10px 0;
 }
+
+.nav-padd{
+  padding: 20px;;
+}
+
+.last-padd{
+  padding: 20px 0 20px 20px;
+}
