@@ -705,8 +705,8 @@ ul.sub-menu {
 
 .single-features {
   overflow: hidden;
-  padding-top: 65px;
-  padding-bottom: 40px;
+  /* padding-top: 65px;
+  padding-bottom: 40px; */
 }
 
 .single-features .col-sm-6 h2{
