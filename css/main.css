@@ -2693,7 +2693,7 @@ span.stButton_gradient,
 }
 
 .terms-of-use{
-  width: 900px;
+  width: 900px !important;
 }
 
 .padding2{
