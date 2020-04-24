@@ -2697,7 +2697,7 @@ span.stButton_gradient,
 }
 
 .padding2{
-  padding: 50px 0;
+  padding: 50px 0 !important;
 }
 .feature-card-body{
   height: 340px;
