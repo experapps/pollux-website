@@ -2691,3 +2691,25 @@ span.stButton_gradient,
 .last-padd{
   padding: 20px 0 20px 20px;
 }
+
+.terms-of-use{
+  width: 900px;
+}
+
+.padding2{
+  padding: 50px 0;
+}
+.feature-card-body{
+  height: 340px;
+}
+.about-info{
+  margin: 60px 0;
+  font-size: 15px;
+}
+
+.feature-img{
+  width: 80%;
+}
+.card-brdr{
+  border: 0px solid rgba(0,0,0,.125) !important; 
+}
