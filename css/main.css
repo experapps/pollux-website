@@ -2717,6 +2717,7 @@ span.stButton_gradient,
 }
 .card-brdr{
   border: 1px solid rgba(0,0,0,.125) !important; 
+  border-radius: 25px;
 }
 .brand-name-style{
   font-family: 'avenir';
