@@ -2713,10 +2713,10 @@ span.stButton_gradient,
 }
 
 .feature-img{
-  width: 80%;
+  width: 100%;
 }
 .card-brdr{
-  border: 0px solid rgba(0,0,0,.125) !important; 
+  border: 1px solid rgba(0,0,0,.125) !important; 
 }
 .brand-name-style{
   font-family: 'avenir';
