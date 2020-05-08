@@ -23,6 +23,7 @@
     font-size: 14px;
     line-height: 22px;
     color: #000;
+    overflow-x: hidden !important;
   }
 
   html {
@@ -2704,8 +2705,8 @@ span.stButton_gradient,
 .padding2{
   padding: 50px 0 !important;
 }
-.feature-card-body{
-  height: 340px;
+.feature-card-body {
+  height: 280px;
 }
 .about-info{
   margin: 60px 0;
