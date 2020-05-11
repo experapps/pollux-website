@@ -172,7 +172,7 @@
 
 #header{
   margin-bottom: 0;
-  padding: 30px 0 60px 0;
+  padding: 10px 0 10px 0;
 }
 
 #header .navbar-inverse .container{
@@ -498,8 +498,8 @@ ul.sub-menu {
 
 .btn-submit {
   width: 100%;
-  background-color: #4fcccd;
-  color: #fff;
+  color: #4fcccd;
+  background-color: #fff;
   font-size: 14px;
   font-weight: 300;
   letter-spacing: 5px;
@@ -510,15 +510,21 @@ ul.sub-menu {
   -webkit-box-shadow: none;
   box-shadow: none;
   padding: 10px;
+  font-size: 14px;
+  border: 1px solid #0099ae;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  padding: 10px 25px;
 }
 
 .btn-submit:hover, 
 .btn-submit:focus{
+  background-color: #4fcccd;
   color: #fff;
   outline: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  opacity: .8;
+  /* opacity: .8; */
 }
 
 .copyright-text{
@@ -2723,4 +2729,9 @@ span.stButton_gradient,
 .brand-name-style{
   font-family: 'avenir';
   font-size: 35px;
+}
+
+.btn-common:hover{
+  color: white;
+  background: #0099ae;
 }
